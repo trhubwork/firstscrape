@@ -35,3 +35,4 @@ for burl in burlnews:
 
 
 #need to take an additional line out between headlines and put on left margin
+    #check for a new way of cleaning data.
